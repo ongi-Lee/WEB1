@@ -7,7 +7,6 @@
     </head>
     <body>
         <h2>Cozy and Brilliant Moon</h2>
-        <img src="girl-with-red-hat.jpg" width="80%">
         <h4><a href="https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&query=D+dean&oquery=%EC%97%90%EB%A9%94%EB%9E%84%EB%93%9C&tqi=hWRk0sprvN8ssvZbl%2BCssssssM0-048023">딱 너의 반, 반</a></h4> 
         <h4>반의 반이라도 내게 남았더라면
         <h4>이렇게 붕 떠있지는 않을 텐데..</h4>
