@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>girl-with-emerald</title>
         <meta charset="utf-8">
     </head>
     <body>
